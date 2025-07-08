@@ -2,7 +2,7 @@
 layout: standard
 order: 1
 title: test coverage
-date: 2025-10-03
+date: 2025-07-08
 id: SEGAS-00017
 tags:
 - Developer Testing 
@@ -21,13 +21,13 @@ Outcomes include increased confidence in code changes, earlier detection of bugs
 
 ## Requirements
 
-- [You MUST have a minimum of 80% code coverage](#You-MUST-have-a-minimum-of-80%-code coverage).
-- [You MUST implement static code vulnerability scans to identify security issues within the code](#You-MUST-implement-static-code-vulnerability-scans-to-identify-security-issues-within-the-code).
-- [You MUST prioritise testing coverage on the expected behaviour of the code, including edge cases and boundary conditions](#You-MUST-prioritise-testing-coverage-on-the-expected-behaviour-of-the-code,-including-edge-cases-and-boundary-conditions).
-- [You MUST prioritise testing critical or high-risk areas of the application](#You-MUST-prioritise-testing-critical-or-high-risk-areas-of-the-application).
-- [You MUST prioritise achieving coverage target for new code changes, legacy system unit tests should be secondary](#You-MUST-prioritise-achieving-coverage-target-for-new-code-changes,-legacy-system-unit-tests-should-be-secondary).
-- [You MUST implement code coverage tools integrated into CI/CD pipelines for continuous measurement](#You-MUST-implement-code-coverage-tools-integrated-into-CI/CD-pipelines-for-continuous-measurement).
-- [You MUST have test coverage metrics emphasise a holistic approach to quality engineering](#You-MUST-have-test-coverage-metrics-emphasise-a-holistic-approach-to-quality-engineering).
+- [You MUST have a minimum of 80% code coverage](#you-must-have-a-minimum-of-80-code-coverage)
+- [You MUST implement static code vulnerability scans as well as dynamic analysis to identify security issues within the code](#you-must-implement-static-code-vulnerability-scans-as-well-as-dynamic-analysis-to-identify-security-issues-within-the-code)
+- [You MUST prioritise testing coverage on the expected behaviour of the code, including edge cases and boundary conditions](#you-must-prioritise-testing-coverage-on-the-expected-behaviour-of-the-code-including-edge-cases-and-boundary-conditions)
+- [You MUST Prioritise testing critical or high-risk areas of the application](#you-must-prioritise-testing-critical-or-high-risk-areas-of-the-application)
+- [You MUST prioritise achieving coverage target for new code changes, legacy system unit tests should be secondary](#you-must-prioritise-achieving-coverage-target-for-new-code-changes-legacy-system-unit-tests-should-be-secondary)
+- [You MUST implement code coverage tools integrated into CI/CD pipelines for continuous measurement](#you-must-implement-code-coverage-tools-integrated-into-cicd-pipelines-for-continuous-measurement)
+- [You MUST have Test Coverage Metrics that emphasise a holistic approach to Quality Engineering](#you-must-have-test-coverage-metrics-that-emphasise-a-holistic-approach-to-quality-engineering)
 
 ### You MUST have a minimum of 80% code coverage
 
